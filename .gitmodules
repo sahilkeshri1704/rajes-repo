@@ -1,0 +1,3 @@
+[submodule "Vizru"]
+	path = Vizru
+	url = https://git.tricustom.io/TricustomInternal/Vizru.git
